@@ -1,0 +1,28 @@
+C:\Users\luiza\source\repos\Banco\Banco\obj\Debug\net8.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiza\source\repos\Banco\Banco\obj\Debug\net8.0\Banco.AssemblyInfoInputs.cache
+C:\Users\luiza\source\repos\Banco\Banco\obj\Debug\net8.0\Banco.AssemblyInfo.cs
+C:\Users\luiza\source\repos\Banco\Banco\obj\Debug\net8.0\Banco.csproj.CoreCompileInputs.cache
+C:\Users\luiza\source\repos\Banco\Banco\bin\Debug\net8.0\Banco.exe
+C:\Users\luiza\source\repos\Banco\Banco\bin\Debug\net8.0\Banco.deps.json
+C:\Users\luiza\source\repos\Banco\Banco\bin\Debug\net8.0\Banco.runtimeconfig.json
+C:\Users\luiza\source\repos\Banco\Banco\bin\Debug\net8.0\Banco.dll
+C:\Users\luiza\source\repos\Banco\Banco\bin\Debug\net8.0\Banco.pdb
+C:\Users\luiza\source\repos\Banco\Banco\obj\Debug\net8.0\Banco.dll
+C:\Users\luiza\source\repos\Banco\Banco\obj\Debug\net8.0\refint\Banco.dll
+C:\Users\luiza\source\repos\Banco\Banco\obj\Debug\net8.0\Banco.pdb
+C:\Users\luiza\source\repos\Banco\Banco\obj\Debug\net8.0\Banco.genruntimeconfig.cache
+C:\Users\luiza\source\repos\Banco\Banco\obj\Debug\net8.0\ref\Banco.dll
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\this sovrecarga\Banco\bin\Debug\net8.0\Banco.exe
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\this sovrecarga\Banco\bin\Debug\net8.0\Banco.deps.json
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\this sovrecarga\Banco\bin\Debug\net8.0\Banco.runtimeconfig.json
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\this sovrecarga\Banco\bin\Debug\net8.0\Banco.dll
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\this sovrecarga\Banco\bin\Debug\net8.0\Banco.pdb
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\this sovrecarga\Banco\obj\Debug\net8.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\this sovrecarga\Banco\obj\Debug\net8.0\Banco.AssemblyInfoInputs.cache
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\this sovrecarga\Banco\obj\Debug\net8.0\Banco.AssemblyInfo.cs
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\this sovrecarga\Banco\obj\Debug\net8.0\Banco.csproj.CoreCompileInputs.cache
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\this sovrecarga\Banco\obj\Debug\net8.0\Banco.dll
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\this sovrecarga\Banco\obj\Debug\net8.0\refint\Banco.dll
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\this sovrecarga\Banco\obj\Debug\net8.0\Banco.pdb
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\this sovrecarga\Banco\obj\Debug\net8.0\Banco.genruntimeconfig.cache
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\this sovrecarga\Banco\obj\Debug\net8.0\ref\Banco.dll

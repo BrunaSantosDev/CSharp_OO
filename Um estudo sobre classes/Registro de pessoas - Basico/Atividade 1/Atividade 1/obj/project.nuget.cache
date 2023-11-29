@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UwqZFzy51Y47nINkmw07Voud7iXZ753c6eqvPNWs5h3xyF5tlh9CcfU4VkjhImhSdpJLgMYg2mLQULBkgywarw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luiza\\OneDrive\\Meus saves\\Programação Estudos\\CSharp OO\\Atividades e treinos\\Classes\\atividade 1 e 2 classes\\Atividade 1\\Atividade 1\\Atividade 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luiza\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\luiza\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\luiza\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\luiza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
