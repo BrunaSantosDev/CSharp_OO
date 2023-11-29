@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luiza\\OneDrive\\Meus saves\\Programação Estudos\\CSharp OO\\Atividades e treinos\\Classes\\this sovrecarga\\Banco\\Banco.csproj": {}
+    "C:\\Users\\luiza\\Documents\\C-Sharp-OO\\C-Sharp_OO\\Um estudo sobre classes\\This-Sobrecarga - Conta Bancaria\\Banco\\Banco.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luiza\\OneDrive\\Meus saves\\Programação Estudos\\CSharp OO\\Atividades e treinos\\Classes\\this sovrecarga\\Banco\\Banco.csproj": {
+    "C:\\Users\\luiza\\Documents\\C-Sharp-OO\\C-Sharp_OO\\Um estudo sobre classes\\This-Sobrecarga - Conta Bancaria\\Banco\\Banco.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luiza\\OneDrive\\Meus saves\\Programação Estudos\\CSharp OO\\Atividades e treinos\\Classes\\this sovrecarga\\Banco\\Banco.csproj",
+        "projectUniqueName": "C:\\Users\\luiza\\Documents\\C-Sharp-OO\\C-Sharp_OO\\Um estudo sobre classes\\This-Sobrecarga - Conta Bancaria\\Banco\\Banco.csproj",
         "projectName": "Banco",
-        "projectPath": "C:\\Users\\luiza\\OneDrive\\Meus saves\\Programação Estudos\\CSharp OO\\Atividades e treinos\\Classes\\this sovrecarga\\Banco\\Banco.csproj",
+        "projectPath": "C:\\Users\\luiza\\Documents\\C-Sharp-OO\\C-Sharp_OO\\Um estudo sobre classes\\This-Sobrecarga - Conta Bancaria\\Banco\\Banco.csproj",
         "packagesPath": "C:\\Users\\luiza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luiza\\OneDrive\\Meus saves\\Programação Estudos\\CSharp OO\\Atividades e treinos\\Classes\\this sovrecarga\\Banco\\obj\\",
+        "outputPath": "C:\\Users\\luiza\\Documents\\C-Sharp-OO\\C-Sharp_OO\\Um estudo sobre classes\\This-Sobrecarga - Conta Bancaria\\Banco\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

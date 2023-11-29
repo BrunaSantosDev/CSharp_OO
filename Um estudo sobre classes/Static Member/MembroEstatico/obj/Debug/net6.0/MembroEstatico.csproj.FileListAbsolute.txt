@@ -1,0 +1,14 @@
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Classes\Exercicios\MembroEstatico\MembroEstatico\bin\Debug\net6.0\MembroEstatico.exe
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Classes\Exercicios\MembroEstatico\MembroEstatico\bin\Debug\net6.0\MembroEstatico.deps.json
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Classes\Exercicios\MembroEstatico\MembroEstatico\bin\Debug\net6.0\MembroEstatico.runtimeconfig.json
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Classes\Exercicios\MembroEstatico\MembroEstatico\bin\Debug\net6.0\MembroEstatico.dll
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Classes\Exercicios\MembroEstatico\MembroEstatico\bin\Debug\net6.0\MembroEstatico.pdb
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Classes\Exercicios\MembroEstatico\MembroEstatico\obj\Debug\net6.0\MembroEstatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Classes\Exercicios\MembroEstatico\MembroEstatico\obj\Debug\net6.0\MembroEstatico.AssemblyInfoInputs.cache
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Classes\Exercicios\MembroEstatico\MembroEstatico\obj\Debug\net6.0\MembroEstatico.AssemblyInfo.cs
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Classes\Exercicios\MembroEstatico\MembroEstatico\obj\Debug\net6.0\MembroEstatico.csproj.CoreCompileInputs.cache
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Classes\Exercicios\MembroEstatico\MembroEstatico\obj\Debug\net6.0\MembroEstatico.dll
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Classes\Exercicios\MembroEstatico\MembroEstatico\obj\Debug\net6.0\refint\MembroEstatico.dll
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Classes\Exercicios\MembroEstatico\MembroEstatico\obj\Debug\net6.0\MembroEstatico.pdb
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Classes\Exercicios\MembroEstatico\MembroEstatico\obj\Debug\net6.0\MembroEstatico.genruntimeconfig.cache
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Classes\Exercicios\MembroEstatico\MembroEstatico\obj\Debug\net6.0\ref\MembroEstatico.dll

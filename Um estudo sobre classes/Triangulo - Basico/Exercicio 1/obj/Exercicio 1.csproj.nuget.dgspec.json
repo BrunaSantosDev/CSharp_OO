@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luiza\\Documents\\C-Sharp-OO\\C-Sharp_OO\\Um estudo sobre classes\\Area Perimetro e Diagonal de um Triangulo\\Exercicio 1\\Exercicio 1.csproj": {}
+    "C:\\Users\\luiza\\Documents\\C-Sharp-OO\\C-Sharp_OO\\Um estudo sobre classes\\Triangulo - Basico\\Exercicio 1\\Exercicio 1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luiza\\Documents\\C-Sharp-OO\\C-Sharp_OO\\Um estudo sobre classes\\Area Perimetro e Diagonal de um Triangulo\\Exercicio 1\\Exercicio 1.csproj": {
+    "C:\\Users\\luiza\\Documents\\C-Sharp-OO\\C-Sharp_OO\\Um estudo sobre classes\\Triangulo - Basico\\Exercicio 1\\Exercicio 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luiza\\Documents\\C-Sharp-OO\\C-Sharp_OO\\Um estudo sobre classes\\Area Perimetro e Diagonal de um Triangulo\\Exercicio 1\\Exercicio 1.csproj",
+        "projectUniqueName": "C:\\Users\\luiza\\Documents\\C-Sharp-OO\\C-Sharp_OO\\Um estudo sobre classes\\Triangulo - Basico\\Exercicio 1\\Exercicio 1.csproj",
         "projectName": "Exercicio 1",
-        "projectPath": "C:\\Users\\luiza\\Documents\\C-Sharp-OO\\C-Sharp_OO\\Um estudo sobre classes\\Area Perimetro e Diagonal de um Triangulo\\Exercicio 1\\Exercicio 1.csproj",
+        "projectPath": "C:\\Users\\luiza\\Documents\\C-Sharp-OO\\C-Sharp_OO\\Um estudo sobre classes\\Triangulo - Basico\\Exercicio 1\\Exercicio 1.csproj",
         "packagesPath": "C:\\Users\\luiza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luiza\\Documents\\C-Sharp-OO\\C-Sharp_OO\\Um estudo sobre classes\\Area Perimetro e Diagonal de um Triangulo\\Exercicio 1\\obj\\",
+        "outputPath": "C:\\Users\\luiza\\Documents\\C-Sharp-OO\\C-Sharp_OO\\Um estudo sobre classes\\Triangulo - Basico\\Exercicio 1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

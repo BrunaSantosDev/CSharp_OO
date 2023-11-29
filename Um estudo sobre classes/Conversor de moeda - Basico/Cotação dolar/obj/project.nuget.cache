@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DVy+HOZJODGNoFynTC3ytjGSh7eitoGtljarfcIlaort7qH1CReyWT7P+qhovAxWgsWsqOstbDmqxPe7VPtcOQ==",
+  "dgSpecHash": "c3e22+xrmkACA24BolUdV5UlHovUBoUeTJ2vejMNGmfPcl820AsaZGNaz/04z64QK4HwqekfuAADWcj2GQZEQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\luiza\\OneDrive\\Meus saves\\Programação Estudos\\CSharp OO\\Atividades e treinos\\Classes\\Cotação dolar\\Cotação dolar\\Cotação dolar.csproj",
+  "projectFilePath": "C:\\Users\\luiza\\Documents\\C-Sharp-OO\\C-Sharp_OO\\Um estudo sobre classes\\Conversor de moeda - Basico\\Cotação dolar\\Cotação dolar.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luiza\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
     "C:\\Users\\luiza\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",

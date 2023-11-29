@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luiza\\OneDrive\\Meus saves\\Programação Estudos\\CSharp OO\\Atividades e treinos\\Classes\\Cotação dolar\\Cotação dolar\\Cotação dolar.csproj",
+      "projectUniqueName": "C:\\Users\\luiza\\Documents\\C-Sharp-OO\\C-Sharp_OO\\Um estudo sobre classes\\Conversor de moeda - Basico\\Cotação dolar\\Cotação dolar.csproj",
       "projectName": "Cotação dolar",
-      "projectPath": "C:\\Users\\luiza\\OneDrive\\Meus saves\\Programação Estudos\\CSharp OO\\Atividades e treinos\\Classes\\Cotação dolar\\Cotação dolar\\Cotação dolar.csproj",
+      "projectPath": "C:\\Users\\luiza\\Documents\\C-Sharp-OO\\C-Sharp_OO\\Um estudo sobre classes\\Conversor de moeda - Basico\\Cotação dolar\\Cotação dolar.csproj",
       "packagesPath": "C:\\Users\\luiza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luiza\\OneDrive\\Meus saves\\Programação Estudos\\CSharp OO\\Atividades e treinos\\Classes\\Cotação dolar\\Cotação dolar\\obj\\",
+      "outputPath": "C:\\Users\\luiza\\Documents\\C-Sharp-OO\\C-Sharp_OO\\Um estudo sobre classes\\Conversor de moeda - Basico\\Cotação dolar\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
