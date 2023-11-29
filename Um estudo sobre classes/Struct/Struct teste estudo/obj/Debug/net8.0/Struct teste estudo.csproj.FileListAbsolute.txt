@@ -1,0 +1,14 @@
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Struct\Struct teste estudo\Struct teste estudo\obj\Debug\net8.0\Struct teste estudo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Struct\Struct teste estudo\Struct teste estudo\obj\Debug\net8.0\Struct teste estudo.AssemblyInfoInputs.cache
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Struct\Struct teste estudo\Struct teste estudo\obj\Debug\net8.0\Struct teste estudo.AssemblyInfo.cs
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Struct\Struct teste estudo\Struct teste estudo\obj\Debug\net8.0\Struct teste estudo.csproj.CoreCompileInputs.cache
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Struct\Struct teste estudo\Struct teste estudo\bin\Debug\net8.0\Struct teste estudo.exe
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Struct\Struct teste estudo\Struct teste estudo\bin\Debug\net8.0\Struct teste estudo.deps.json
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Struct\Struct teste estudo\Struct teste estudo\bin\Debug\net8.0\Struct teste estudo.runtimeconfig.json
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Struct\Struct teste estudo\Struct teste estudo\bin\Debug\net8.0\Struct teste estudo.dll
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Struct\Struct teste estudo\Struct teste estudo\bin\Debug\net8.0\Struct teste estudo.pdb
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Struct\Struct teste estudo\Struct teste estudo\obj\Debug\net8.0\Struct teste estudo.dll
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Struct\Struct teste estudo\Struct teste estudo\obj\Debug\net8.0\refint\Struct teste estudo.dll
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Struct\Struct teste estudo\Struct teste estudo\obj\Debug\net8.0\Struct teste estudo.pdb
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Struct\Struct teste estudo\Struct teste estudo\obj\Debug\net8.0\Struct teste estudo.genruntimeconfig.cache
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Struct\Struct teste estudo\Struct teste estudo\obj\Debug\net8.0\ref\Struct teste estudo.dll

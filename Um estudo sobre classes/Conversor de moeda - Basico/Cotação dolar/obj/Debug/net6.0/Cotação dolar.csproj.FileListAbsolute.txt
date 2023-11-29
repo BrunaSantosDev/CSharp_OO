@@ -1,0 +1,14 @@
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Classes\Exercicios\Cotação dolar\Cotação dolar\obj\Debug\net6.0\Cotação dolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Classes\Exercicios\Cotação dolar\Cotação dolar\obj\Debug\net6.0\Cotação dolar.AssemblyInfoInputs.cache
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Classes\Exercicios\Cotação dolar\Cotação dolar\obj\Debug\net6.0\Cotação dolar.AssemblyInfo.cs
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Classes\Exercicios\Cotação dolar\Cotação dolar\obj\Debug\net6.0\Cotação dolar.csproj.CoreCompileInputs.cache
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Classes\Exercicios\Cotação dolar\Cotação dolar\bin\Debug\net6.0\Cotação dolar.exe
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Classes\Exercicios\Cotação dolar\Cotação dolar\bin\Debug\net6.0\Cotação dolar.deps.json
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Classes\Exercicios\Cotação dolar\Cotação dolar\bin\Debug\net6.0\Cotação dolar.runtimeconfig.json
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Classes\Exercicios\Cotação dolar\Cotação dolar\bin\Debug\net6.0\Cotação dolar.dll
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Classes\Exercicios\Cotação dolar\Cotação dolar\bin\Debug\net6.0\Cotação dolar.pdb
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Classes\Exercicios\Cotação dolar\Cotação dolar\obj\Debug\net6.0\Cotação dolar.dll
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Classes\Exercicios\Cotação dolar\Cotação dolar\obj\Debug\net6.0\refint\Cotação dolar.dll
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Classes\Exercicios\Cotação dolar\Cotação dolar\obj\Debug\net6.0\Cotação dolar.pdb
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Classes\Exercicios\Cotação dolar\Cotação dolar\obj\Debug\net6.0\Cotação dolar.genruntimeconfig.cache
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Classes\Exercicios\Cotação dolar\Cotação dolar\obj\Debug\net6.0\ref\Cotação dolar.dll

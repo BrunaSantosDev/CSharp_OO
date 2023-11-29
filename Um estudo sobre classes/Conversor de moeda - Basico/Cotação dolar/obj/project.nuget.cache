@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DVy+HOZJODGNoFynTC3ytjGSh7eitoGtljarfcIlaort7qH1CReyWT7P+qhovAxWgsWsqOstbDmqxPe7VPtcOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luiza\\OneDrive\\Meus saves\\Programação Estudos\\CSharp OO\\Atividades e treinos\\Classes\\Cotação dolar\\Cotação dolar\\Cotação dolar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luiza\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\luiza\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\luiza\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\luiza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

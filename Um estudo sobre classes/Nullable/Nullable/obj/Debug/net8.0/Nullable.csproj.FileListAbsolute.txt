@@ -1,0 +1,14 @@
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Struct\Nullable\Nullable\bin\Debug\net8.0\Nullable.exe
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Struct\Nullable\Nullable\bin\Debug\net8.0\Nullable.deps.json
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Struct\Nullable\Nullable\bin\Debug\net8.0\Nullable.runtimeconfig.json
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Struct\Nullable\Nullable\bin\Debug\net8.0\Nullable.dll
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Struct\Nullable\Nullable\bin\Debug\net8.0\Nullable.pdb
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Struct\Nullable\Nullable\obj\Debug\net8.0\Nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Struct\Nullable\Nullable\obj\Debug\net8.0\Nullable.AssemblyInfoInputs.cache
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Struct\Nullable\Nullable\obj\Debug\net8.0\Nullable.AssemblyInfo.cs
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Struct\Nullable\Nullable\obj\Debug\net8.0\Nullable.csproj.CoreCompileInputs.cache
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Struct\Nullable\Nullable\obj\Debug\net8.0\Nullable.dll
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Struct\Nullable\Nullable\obj\Debug\net8.0\refint\Nullable.dll
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Struct\Nullable\Nullable\obj\Debug\net8.0\Nullable.pdb
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Struct\Nullable\Nullable\obj\Debug\net8.0\Nullable.genruntimeconfig.cache
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Struct\Nullable\Nullable\obj\Debug\net8.0\ref\Nullable.dll

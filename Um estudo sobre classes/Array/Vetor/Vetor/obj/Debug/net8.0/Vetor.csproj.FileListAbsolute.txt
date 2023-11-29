@@ -1,0 +1,14 @@
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Vetor\Vetor\Vetor\bin\Debug\net8.0\Vetor.exe
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Vetor\Vetor\Vetor\bin\Debug\net8.0\Vetor.deps.json
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Vetor\Vetor\Vetor\bin\Debug\net8.0\Vetor.runtimeconfig.json
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Vetor\Vetor\Vetor\bin\Debug\net8.0\Vetor.dll
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Vetor\Vetor\Vetor\bin\Debug\net8.0\Vetor.pdb
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Vetor\Vetor\Vetor\obj\Debug\net8.0\Vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Vetor\Vetor\Vetor\obj\Debug\net8.0\Vetor.AssemblyInfoInputs.cache
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Vetor\Vetor\Vetor\obj\Debug\net8.0\Vetor.AssemblyInfo.cs
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Vetor\Vetor\Vetor\obj\Debug\net8.0\Vetor.csproj.CoreCompileInputs.cache
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Vetor\Vetor\Vetor\obj\Debug\net8.0\Vetor.dll
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Vetor\Vetor\Vetor\obj\Debug\net8.0\refint\Vetor.dll
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Vetor\Vetor\Vetor\obj\Debug\net8.0\Vetor.pdb
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Vetor\Vetor\Vetor\obj\Debug\net8.0\Vetor.genruntimeconfig.cache
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Atividades e treinos\Vetor\Vetor\Vetor\obj\Debug\net8.0\ref\Vetor.dll

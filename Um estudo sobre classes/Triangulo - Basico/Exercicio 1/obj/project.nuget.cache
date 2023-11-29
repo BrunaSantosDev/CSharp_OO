@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KfY3MEeJd/WYL9aIxGY0AIErrA1kmOboe/Y21KFMx4iifRH5j/PNpqFOFj5GcO+4LkkuJai+d4mPfWG1NVR86A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luiza\\Documents\\C-Sharp-OO\\C-Sharp_OO\\Um estudo sobre classes\\Area Perimetro e Diagonal de um Triangulo\\Exercicio 1\\Exercicio 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luiza\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\luiza\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\luiza\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\luiza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
