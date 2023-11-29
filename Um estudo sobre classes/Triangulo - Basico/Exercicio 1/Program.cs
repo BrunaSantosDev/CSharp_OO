@@ -4,6 +4,8 @@ using System.Globalization;
 namespace Exercicio1 {
     class Program {
         static void Main(string[] args) {
+            // O objetivo do código é calcular a largura e altura do retângulo.
+
             CultureInfo CI = CultureInfo.InvariantCulture;
             Retangulo x = new Retangulo();
 

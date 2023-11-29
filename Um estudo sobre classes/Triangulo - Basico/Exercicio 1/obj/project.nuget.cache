@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KfY3MEeJd/WYL9aIxGY0AIErrA1kmOboe/Y21KFMx4iifRH5j/PNpqFOFj5GcO+4LkkuJai+d4mPfWG1NVR86A==",
+  "dgSpecHash": "C+RPXoXg+Mh2YjSv4tQc2702yAg9N5fEWnvQvn9Kcp8hr12VOiYCLZSl9P9y9omqFxOultsMImZFt6ePSyl/lw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\luiza\\Documents\\C-Sharp-OO\\C-Sharp_OO\\Um estudo sobre classes\\Area Perimetro e Diagonal de um Triangulo\\Exercicio 1\\Exercicio 1.csproj",
+  "projectFilePath": "C:\\Users\\luiza\\Documents\\C-Sharp-OO\\C-Sharp_OO\\Um estudo sobre classes\\Triangulo - Basico\\Exercicio 1\\Exercicio 1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luiza\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
     "C:\\Users\\luiza\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",

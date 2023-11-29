@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luiza\\OneDrive\\Meus saves\\Programação Estudos\\CSharp OO\\Atividades e treinos\\Struct\\Nullable\\Nullable\\Nullable.csproj": {}
+    "C:\\Users\\luiza\\Documents\\C-Sharp-OO\\C-Sharp_OO\\Um estudo sobre classes\\Nullable\\Nullable\\Nullable.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luiza\\OneDrive\\Meus saves\\Programação Estudos\\CSharp OO\\Atividades e treinos\\Struct\\Nullable\\Nullable\\Nullable.csproj": {
+    "C:\\Users\\luiza\\Documents\\C-Sharp-OO\\C-Sharp_OO\\Um estudo sobre classes\\Nullable\\Nullable\\Nullable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luiza\\OneDrive\\Meus saves\\Programação Estudos\\CSharp OO\\Atividades e treinos\\Struct\\Nullable\\Nullable\\Nullable.csproj",
+        "projectUniqueName": "C:\\Users\\luiza\\Documents\\C-Sharp-OO\\C-Sharp_OO\\Um estudo sobre classes\\Nullable\\Nullable\\Nullable.csproj",
         "projectName": "Nullable",
-        "projectPath": "C:\\Users\\luiza\\OneDrive\\Meus saves\\Programação Estudos\\CSharp OO\\Atividades e treinos\\Struct\\Nullable\\Nullable\\Nullable.csproj",
+        "projectPath": "C:\\Users\\luiza\\Documents\\C-Sharp-OO\\C-Sharp_OO\\Um estudo sobre classes\\Nullable\\Nullable\\Nullable.csproj",
         "packagesPath": "C:\\Users\\luiza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luiza\\OneDrive\\Meus saves\\Programação Estudos\\CSharp OO\\Atividades e treinos\\Struct\\Nullable\\Nullable\\obj\\",
+        "outputPath": "C:\\Users\\luiza\\Documents\\C-Sharp-OO\\C-Sharp_OO\\Um estudo sobre classes\\Nullable\\Nullable\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

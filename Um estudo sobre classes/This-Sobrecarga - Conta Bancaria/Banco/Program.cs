@@ -4,14 +4,17 @@ using System.Globalization;
 namespace Banco {
     class Program {
         static void Main(string[] args) {
+            // O objetivo do código é realizar a entrada de dados de uma conta bancária e mostrar a saída dos dados atualizados.
 
             ContaBancaria c;
             CultureInfo CI = CultureInfo.InvariantCulture;
             
             Console.Write("Entre o número da conta: ");
             int numero = int.Parse(Console.ReadLine(), CI);
+
             Console.Write("Entre o titular da conta: ");
             string titular = Console.ReadLine();
+
             Console.Write("Haverá depósito inicial (s/n)? ");
             char decisao = char.Parse(Console.ReadLine());
 
