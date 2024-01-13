@@ -1,0 +1,28 @@
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Herança\Herança estudo base\Herança estudo base\bin\Debug\net8.0\Herança estudo base.exe
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Herança\Herança estudo base\Herança estudo base\bin\Debug\net8.0\Herança estudo base.deps.json
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Herança\Herança estudo base\Herança estudo base\bin\Debug\net8.0\Herança estudo base.runtimeconfig.json
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Herança\Herança estudo base\Herança estudo base\bin\Debug\net8.0\Herança estudo base.dll
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Herança\Herança estudo base\Herança estudo base\bin\Debug\net8.0\Herança estudo base.pdb
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Herança\Herança estudo base\Herança estudo base\obj\Debug\net8.0\Herança estudo base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Herança\Herança estudo base\Herança estudo base\obj\Debug\net8.0\Herança estudo base.AssemblyInfoInputs.cache
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Herança\Herança estudo base\Herança estudo base\obj\Debug\net8.0\Herança estudo base.AssemblyInfo.cs
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Herança\Herança estudo base\Herança estudo base\obj\Debug\net8.0\Herança estudo base.csproj.CoreCompileInputs.cache
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Herança\Herança estudo base\Herança estudo base\obj\Debug\net8.0\Herança estudo base.dll
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Herança\Herança estudo base\Herança estudo base\obj\Debug\net8.0\refint\Herança estudo base.dll
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Herança\Herança estudo base\Herança estudo base\obj\Debug\net8.0\Herança estudo base.pdb
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Herança\Herança estudo base\Herança estudo base\obj\Debug\net8.0\Herança estudo base.genruntimeconfig.cache
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Herança\Herança estudo base\Herança estudo base\obj\Debug\net8.0\ref\Herança estudo base.dll
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Herança\Herança estudo base\obj\Debug\net8.0\Herança estudo base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Herança\Herança estudo base\obj\Debug\net8.0\Herança estudo base.AssemblyInfoInputs.cache
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Herança\Herança estudo base\obj\Debug\net8.0\Herança estudo base.AssemblyInfo.cs
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Herança\Herança estudo base\obj\Debug\net8.0\Herança estudo base.csproj.CoreCompileInputs.cache
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Herança\Herança estudo base\obj\Debug\net8.0\Herança estudo base.dll
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Herança\Herança estudo base\obj\Debug\net8.0\refint\Herança estudo base.dll
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Herança\Herança estudo base\obj\Debug\net8.0\Herança estudo base.pdb
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Herança\Herança estudo base\bin\Debug\net8.0\Herança estudo base.exe
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Herança\Herança estudo base\bin\Debug\net8.0\Herança estudo base.deps.json
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Herança\Herança estudo base\bin\Debug\net8.0\Herança estudo base.runtimeconfig.json
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Herança\Herança estudo base\bin\Debug\net8.0\Herança estudo base.dll
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Herança\Herança estudo base\bin\Debug\net8.0\Herança estudo base.pdb
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Herança\Herança estudo base\obj\Debug\net8.0\Herança estudo base.genruntimeconfig.cache
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Herança\Herança estudo base\obj\Debug\net8.0\ref\Herança estudo base.dll
