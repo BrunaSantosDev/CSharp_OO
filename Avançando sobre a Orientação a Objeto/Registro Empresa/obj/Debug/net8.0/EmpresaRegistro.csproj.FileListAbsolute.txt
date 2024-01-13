@@ -1,0 +1,14 @@
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Registro Empresa\EmpresaRegistro\bin\Debug\net8.0\EmpresaRegistro.exe
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Registro Empresa\EmpresaRegistro\bin\Debug\net8.0\EmpresaRegistro.deps.json
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Registro Empresa\EmpresaRegistro\bin\Debug\net8.0\EmpresaRegistro.runtimeconfig.json
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Registro Empresa\EmpresaRegistro\bin\Debug\net8.0\EmpresaRegistro.dll
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Registro Empresa\EmpresaRegistro\bin\Debug\net8.0\EmpresaRegistro.pdb
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Registro Empresa\EmpresaRegistro\obj\Debug\net8.0\EmpresaRegistro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Registro Empresa\EmpresaRegistro\obj\Debug\net8.0\EmpresaRegistro.AssemblyInfoInputs.cache
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Registro Empresa\EmpresaRegistro\obj\Debug\net8.0\EmpresaRegistro.AssemblyInfo.cs
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Registro Empresa\EmpresaRegistro\obj\Debug\net8.0\EmpresaRegistro.csproj.CoreCompileInputs.cache
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Registro Empresa\EmpresaRegistro\obj\Debug\net8.0\EmpresaRegistro.dll
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Registro Empresa\EmpresaRegistro\obj\Debug\net8.0\refint\EmpresaRegistro.dll
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Registro Empresa\EmpresaRegistro\obj\Debug\net8.0\EmpresaRegistro.pdb
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Registro Empresa\EmpresaRegistro\obj\Debug\net8.0\EmpresaRegistro.genruntimeconfig.cache
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Registro Empresa\EmpresaRegistro\obj\Debug\net8.0\ref\EmpresaRegistro.dll

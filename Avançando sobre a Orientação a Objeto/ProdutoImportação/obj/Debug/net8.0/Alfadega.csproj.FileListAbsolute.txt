@@ -1,0 +1,14 @@
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Registro Empresa\Alfadega\bin\Debug\net8.0\Alfadega.exe
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Registro Empresa\Alfadega\bin\Debug\net8.0\Alfadega.deps.json
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Registro Empresa\Alfadega\bin\Debug\net8.0\Alfadega.runtimeconfig.json
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Registro Empresa\Alfadega\bin\Debug\net8.0\Alfadega.dll
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Registro Empresa\Alfadega\bin\Debug\net8.0\Alfadega.pdb
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Registro Empresa\Alfadega\obj\Debug\net8.0\Alfadega.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Registro Empresa\Alfadega\obj\Debug\net8.0\Alfadega.AssemblyInfoInputs.cache
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Registro Empresa\Alfadega\obj\Debug\net8.0\Alfadega.AssemblyInfo.cs
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Registro Empresa\Alfadega\obj\Debug\net8.0\Alfadega.csproj.CoreCompileInputs.cache
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Registro Empresa\Alfadega\obj\Debug\net8.0\Alfadega.dll
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Registro Empresa\Alfadega\obj\Debug\net8.0\refint\Alfadega.dll
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Registro Empresa\Alfadega\obj\Debug\net8.0\Alfadega.pdb
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Registro Empresa\Alfadega\obj\Debug\net8.0\Alfadega.genruntimeconfig.cache
+C:\Users\luiza\OneDrive\Meus saves\Programação Estudos\CSharp OO\Cmç a ficar avançado\Registro Empresa\Alfadega\obj\Debug\net8.0\ref\Alfadega.dll
